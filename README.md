@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I am an aspiring data analyst driven by a relentless curiosity to uncover hidden insights within complex datasets. I have hands-on experience building supervised and unsupervised machine learning models; my practical expertise includes developing models for classification, regression and clustering, allowing me to derive actionable insights and drive informed decision-making. Additionally, I possess proficiency in working with relational databases such as SQLite and non-relational databases like PyMongo. 
+I am an aspiring data analyst driven by a relentless curiosity to uncover hidden insights within complex datasets. I have hands-on experience building supervised and unsupervised machine learning models; my practical expertise includes developing models for classification, regression and clustering, allowing me to derive actionable insights and drive informed decision-making. 
+
+I build data science projects as a part of my academic work, and I am passionate about learning new techniques and incorporating them into my work. I have dedicated much of my time to exploring this vast field of data science, and I am on a path towards becoming a data scientist.
+
+
+
+
+
 
 <!--
 **tasneem-badar/tasneem-badar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
